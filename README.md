@@ -20,6 +20,8 @@
   <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eber-secco&layout=compact)](https://github.com/eber-secco/github-readme-stats)
+
 A Tecnologia mudou a minha vida e eu espero que ela mude a sua também!
 
 ## Últimos Destaques
